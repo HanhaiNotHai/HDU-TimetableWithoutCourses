@@ -19,7 +19,12 @@ import re
 # %%
 week_name = ['星期一', '星期二', '星期三', '星期四', '星期五']
 
-timetables_dir = os.path.join('..', '..', '课表')
+# .ipynb
+# timetables_dir = os.path.join('我的', '课表')
+# .py
+timetables_dir = '课表'
+# pyinstaller
+# timetables_dir = os.path.join('..', '..', '课表')
 departments_dir = os.listdir(timetables_dir)
 departments_dir.sort()
 departments = departments_dir.copy()
@@ -268,7 +273,10 @@ for i in range(3, start_row_12 + departments_num):
 
 
 # %%
-wb.save(os.path.join('..', '..', '无课表.xlsx'))
+# .ipynb .py
+wb.save('无课表.xlsx')
+# pyinstaller
+# wb.save(os.path.join('..', '..', '无课表.xlsx'))
 
 
 
