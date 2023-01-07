@@ -14,3 +14,6 @@
 
 4.运行
     进入dist文件夹，再进入TimetableWithoutCourses文件夹，运行TimetableWithoutCourses.exe
+
+5.查看
+    回到原文件夹，查看 无课表.xlsx

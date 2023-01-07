@@ -279,4 +279,5 @@ wb.save('无课表.xlsx')
 # wb.save(os.path.join('..', '..', '无课表.xlsx'))
 
 
-
+# %%
+input('按任意键退出')
