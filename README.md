@@ -3,7 +3,7 @@
 
 无python按照[使用说明.txt](%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.txt)操作
 
-有python
+有python或者linux（看README的和用linux的应该都有python吧，linux可执行文件也太大了）
 
 pip install openpyxl pdfplumber
 

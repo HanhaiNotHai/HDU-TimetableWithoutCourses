@@ -13,7 +13,9 @@
 3.删除示例用部门文件夹 1xx部 2yy部
 
 4.运行
-    进入dist文件夹，再进入TimetableWithoutCourses文件夹，运行TimetableWithoutCourses.exe
+    运行 对应系统_TimetableWithoutCourses
+        windows win_TimetableWithoutCourses.exe
+        mac 暂时没有mac版本
 
 5.查看
-    回到原文件夹，查看 无课表.xlsx
+    查看 无课表.xlsx
