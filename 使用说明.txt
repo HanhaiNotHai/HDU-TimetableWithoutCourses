@@ -15,7 +15,10 @@
 4.运行
     运行 对应系统_TimetableWithoutCourses
         windows win_TimetableWithoutCourses.exe
-        mac 暂时没有mac版本
+        mac     暂时没有mac版本
+        linux   linux_TimetableWithoutCourses
 
 5.查看
     查看 无课表.xlsx
+
+出错请反馈到qq1932232849或者github issues
