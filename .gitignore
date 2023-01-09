@@ -1,4 +1,5 @@
 我的/
-*无课表.xlsx
+无课表.xlsx
 test.py
-pyinstaller/
+releases/
+TimetableWithoutCourses_OOP.py
