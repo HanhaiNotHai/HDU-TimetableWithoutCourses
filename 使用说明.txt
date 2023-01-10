@@ -15,7 +15,7 @@
 4.运行
     运行 对应系统_TimetableWithoutCourses
         windows win_TimetableWithoutCourses.exe
-        mac     暂时没有mac版本
+        mac     mac_TimetableWithoutCourses
         linux   linux_TimetableWithoutCourses
 
 5.查看
