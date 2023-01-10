@@ -28,7 +28,6 @@ try:
     os.chdir(os.path.split(os.path.abspath(sys.argv[0]))[0])
 
     timetables_dir = '课表'
-    timetables_dir = os.path.join('我的', '课表')
     departments_dir = os.listdir(timetables_dir)
     departments_dir.sort()
     departments = departments_dir.copy()
