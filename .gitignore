@@ -1,5 +1,5 @@
 我的/
-无课表.xlsx
-test.py
+*无课表.xlsx
+test.*
 releases/
-TimetableWithoutCourses_OOP.py
+time_table_without_courses_oop.py
