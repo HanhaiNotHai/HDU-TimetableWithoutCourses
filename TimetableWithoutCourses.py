@@ -307,6 +307,7 @@ if __name__ == '__main__':
         main()
     except:
         print_exc()
-        print('！！！出错了，请反馈！！！\n' * 3 + 'qq 1932232849 或者github issues')
+        print(''.join(['！！！出错了，请反馈！！！\n' * 3,
+              'qq 1932232849 或者github issues']))
     finally:
         input('按回车键退出')
